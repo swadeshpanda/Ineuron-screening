@@ -1,0 +1,19 @@
+2022-06-08 20:35:27,525 ERROR Exception occurred while creating the file.Error:name 'self' is not defined
+Traceback (most recent call last):
+  File "C:\Users\swade\AppData\Local\Temp/ipykernel_7068/2613236920.py", line 13, in screening
+    with open(self.filename, "w") as file:
+NameError: name 'self' is not defined
+2022-06-08 20:37:02,103 DEBUG pickle loaded: C:\Users\swade\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\2and3\builtins.pyi
+2022-06-08 20:37:02,129 DEBUG pickle loaded: C:\Users\swade\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\sys.pyi
+2022-06-08 20:37:20,960 DEBUG diff parser start
+2022-06-08 20:37:20,960 DEBUG line_lengths old: 1; new: 1
+2022-06-08 20:37:20,960 DEBUG -> code[replace] old[1:1] new[1:1]
+2022-06-08 20:37:20,960 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2022-06-08 20:37:20,960 DEBUG diff parser end
+2022-06-08 20:37:21,017 DEBUG pickle loaded: C:\Users\swade\anaconda3\lib\typing.py
+2022-06-08 20:37:21,025 DEBUG pickle loaded: C:\Users\swade\anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\typing.pyi
+2022-06-08 20:37:49,462 ERROR Exception occurred while creating the file.Error:name 'self' is not defined
+Traceback (most recent call last):
+  File "C:\Users\swade\AppData\Local\Temp/ipykernel_7068/2613236920.py", line 13, in screening
+    with open(self.filename, "w") as file:
+NameError: name 'self' is not defined
